@@ -1,0 +1,2 @@
+Por enquanto a classe Gopher não possui muitos atributos nem métodos, por isso acredito que seja mais viável que seja criada
+uma única classe.
