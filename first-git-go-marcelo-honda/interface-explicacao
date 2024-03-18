@@ -1,5 +1,0 @@
-package main
-
-type ComandosFodas interface {
-	Explain()(string, error);
-}
